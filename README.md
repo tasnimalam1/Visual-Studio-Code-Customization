@@ -160,5 +160,5 @@ I've tweaked its appearance, added and modified features, installed extensions, 
 
 - [@Github](https://github.com/tasnimalam1)
 - [@Facebook](https://www.facebook.com/rafsan.tasnim/)
-- [@Twitter](https://www.instagram.com/rafsantasnim/)
+- [@Instagram](https://www.instagram.com/rafsantasnim/)
 - [@Linkedin](https://www.linkedin.com/in/mdtalambd/)
