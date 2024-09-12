@@ -1,11 +1,13 @@
 # Visual Studio Code Customization
 
 ## 📝 Why?
+
 I've been a loyal user of Visual Studio Code since 2018, and it has become my preferred code editor. Its speed and flexibility make it a reliable choice for me, regardless of the operating system I'm using. Over the years, I've created numerous projects using this code editor, and I've made various customizations to tailor it to my preferences.
 
 I've tweaked its appearance, added and modified features, installed extensions, and even created a personalized theme because I haven't found a theme that's absolutely perfect for me. Each time I set up a new work environment, I find myself manually configuring these settings. To streamline this process, I've uploaded all my settings here, so I can quickly apply them. Feel free to use any of them for your convenience.
 
 ## 🛠 VS Code Settings
+
 ```bash
   {
   "editor.fontSize": 20,
@@ -38,7 +40,7 @@ I've tweaked its appearance, added and modified features, installed extensions, 
   "editor.guides.bracketPairsHorizontal": true,
   "editor.hover.enabled": false,
   "window.zoomLevel": 1,
-  // Live Server 
+  // Live Server
   "liveServer.settings.CustomBrowser": "chrome:PrivateMode",
   "liveServer.settings.donotShowInfoMsg": true,
   "liveServer.settings.donotVerifyTags": true,
@@ -61,7 +63,7 @@ I've tweaked its appearance, added and modified features, installed extensions, 
   "security.workspace.trust.untrustedFiles": "open",
   // "files.autoSave": "afterDelay",
   // "files.autoSaveDelay": 10,
-  
+
   // Prettier Config
   "prettier.proseWrap": "always",
   "prettier.singleQuote": true,
@@ -84,6 +86,7 @@ I've tweaked its appearance, added and modified features, installed extensions, 
 ```
 
 ## ⚙️ VS Code Extension
+
 - Auto Close Tag (Jun Han)
 - Auto Import - ES6, TS, JSX, TSX (Sergey Korenuk)
 - Auto Rename Tag (Jun Han)
@@ -107,8 +110,8 @@ I've tweaked its appearance, added and modified features, installed extensions, 
 - VSCode React Refactor (planbcoding)
 - Tailwind CSS IntelliSense (Tailwind Labs)
 
-
 ## 🎨 VS Code Themes
+
 - Andromeda 👈
 - Dracula Official
 - Night Owl
@@ -116,48 +119,46 @@ I've tweaked its appearance, added and modified features, installed extensions, 
 - SynthWave '84
 - Ayu (Theme)
 
-## 🔑 VS Code Keyboard Shortcuts 
+## 🔑 VS Code Keyboard Shortcuts
 
-| Keyboard Shortcuts | Windows / Linux     | Mac   |
-| :-------- | :------- | :-------------------------------- |
-|  HTML boilerplate  |  ! + TAB | ! + TAB |
-|  Open the palette to search for a file  | Ctrl + P | cmd + P |
-|  Add cursors to all matching selections  | Ctrl + Shift + L  | cmd + Shift + L |
-|  Undo  |  Ctrl + U | cmd + U |
-|  Select Current Line  | Ctrl + L | cmd + L |
-|  Zen Mode  | Ctrl + K Z | cmd + K Z |
-|  Toggle Sidebar  | Ctrl + B | cmd + B |
-|  Search Global Files  | Ctrl + Shift + F | Ctrl + Shift + F |
-|  Search on file  | Ctrl + F | cmd + F |
-|  Find and Replace  | Ctrl + H | cmd + H |
-|  Delete the previous Word  | Ctrl + Backspace | cmd + Backspace |
-|  Move line up/Down  | Alt + up/down arrow | option + up/down arrow |
-|  Add multiple cursors  | Ctrl + Alt +up/down arrow | cmd + option + up/down arrow |
-|  Comment Line  | Ctrl + / | cmd + / |
-|  Comment Line  | Ctrl + K + Ctrl + C | cmd + K + cmd + C |
-|  Split View  | Ctrl + \  | cmd + \ |
-|  Switch Between views |  Ctrl +1, Ctrl + 2 .. | cmd + 1, cmd + 2 |
-|  Duplicate Line  | Alt + Shift + up/down | option + Shift + up/down |
-|  Navigate to a specific line  | Ctrl + g | cmd + G |
-|  Open Terminal | Ctrl + ` | cmd + ` |
-|  To Show suggestion | Ctrl + Space | cmd + space |
-|  To Close a TAB | Ctrl + W | cmd + W |
-|  To Close all TAB | Ctrl + Shift + W | cmd + Shift + W |
-
-
-
-
+| Keyboard Shortcuts                     | Windows / Linux           | Mac                          |
+| :------------------------------------- | :------------------------ | :--------------------------- |
+| HTML boilerplate                       | ! + TAB                   | ! + TAB                      |
+| Open the palette to search for a file  | Ctrl + P                  | cmd + P                      |
+| Add cursors to all matching selections | Ctrl + Shift + L          | cmd + Shift + L              |
+| Undo                                   | Ctrl + U                  | cmd + U                      |
+| Select Current Line                    | Ctrl + L                  | cmd + L                      |
+| Zen Mode                               | Ctrl + K Z                | cmd + K Z                    |
+| Toggle Sidebar                         | Ctrl + B                  | cmd + B                      |
+| Search Global Files                    | Ctrl + Shift + F          | Ctrl + Shift + F             |
+| Search on file                         | Ctrl + F                  | cmd + F                      |
+| Find and Replace                       | Ctrl + H                  | cmd + H                      |
+| Delete the previous Word               | Ctrl + Backspace          | cmd + Backspace              |
+| Move line up/Down                      | Alt + up/down arrow       | option + up/down arrow       |
+| Add multiple cursors                   | Ctrl + Alt +up/down arrow | cmd + option + up/down arrow |
+| Comment Line                           | Ctrl + /                  | cmd + /                      |
+| Comment Line                           | Ctrl + K + Ctrl + C       | cmd + K + cmd + C            |
+| Split View                             | Ctrl + \                  | cmd + \                      |
+| Switch Between views                   | Ctrl +1, Ctrl + 2 ..      | cmd + 1, cmd + 2             |
+| Duplicate Line                         | Alt + Shift + up/down     | option + Shift + up/down     |
+| Navigate to a specific line            | Ctrl + g                  | cmd + G                      |
+| Open Terminal                          | Ctrl + `                  | cmd + `                      |
+| To Show suggestion                     | Ctrl + Space              | cmd + space                  |
+| To Close a TAB                         | Ctrl + W                  | cmd + W                      |
+| To Close all TAB                       | Ctrl + Shift + W          | cmd + Shift + W              |
 
 ## ✒ Font Info
+
 - [Fira Code](https://fonts.google.com/specimen/Fira+Code)
 - [Operator Mono](https://www.typography.com/fonts/operator/styles)
 
 ## 🧑‍💻 Contributors
-- [@Ali Hossain](https://github.com/shovoalways/)
 
+<!-- - [@Ali Hossain](https://github.com/shovoalways/) -->
 
 ## 🥰 Follow me
-- [@Github](https://github.com/shovoalways/) 
-- [@Facebook](https://facebook.com/shovoalways/) 
-- [@Twitter](https://twitter.com/shovoalways/) 
-- [@Instagram](https://instagram.com/shovoalways/) 
+
+- [@Github](https://github.com/tasnimalam1)
+- [@Facebook](https://www.facebook.com/rafsan.tasnim/)
+- [@Twitter](https://www.instagram.com/rafsantasnim/)
+- [@Linkedin](https://www.linkedin.com/in/mdtalambd/)
